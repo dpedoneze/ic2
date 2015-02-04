@@ -1,6 +1,5 @@
-### Locadora de Veiculos
-#### Trabalho IC2
+### UNESP Rio Claro
+#### Alguns rabalhos realizados durante a graduação
 
 - Autor: David Asbahr Pedoneze
 - Curso: Ciencias da Computação - Integral
-- Ano: 2009
