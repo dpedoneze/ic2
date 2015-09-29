@@ -9,6 +9,6 @@
 
 ### Repositórios separados
 - [Microprocessadores II (2014)](https://github.com/dpedoneze/m2)
-- Compiladores (2014)
+- [Compiladores (2014)](https://github.com/dpedoneze/compilers)
 
 
